@@ -1,0 +1,10 @@
+export const ITEM_ADD = 'ITEM_ADD';
+export const ITEM_REDO = 'ITEM_REDO';
+export const ITEM_UNDO = 'ITEM_UNDO';
+export const ITEM_CHANGE = 'ITEM_CHANGE';
+export const ITEM_DELETE = 'ITEM_DELETE';
+export const ITEM_SET_TO_CHANGE = 'ITEM_SET_TO_CHANGE';
+export const ITEM_HISTORY_CHANGE = 'ITEM_HISTORY_CHANGE';
+export const ITEM_PREPARE_TO_ADD_NEW = 'ITEM_PREPARE_TO_ADD_NEW';
+export const TABLE_DUPLICATE = 'TABLE_DUPLICATE';
+export const TABLE_SAVE = 'TABLE_SAVE';
